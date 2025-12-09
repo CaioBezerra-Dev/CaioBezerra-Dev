@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<div align="center">
+  <img src="./gif_perfil.gif" width="300">
+</div>
 
 ## Sobre mim
 
@@ -32,8 +34,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
-
-<br/>
 
 ## Onde me encontrar
 
