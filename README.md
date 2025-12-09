@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img1.jpg" width="300">
+  <img src="./gif_perfil.gif" width="600">
 </div>
 
 ## Sobre mim
