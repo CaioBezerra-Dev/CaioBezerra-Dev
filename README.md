@@ -1,11 +1,14 @@
 <div align="center">
   <img src="./gif_perfil.gif" width="600">
+  <h1>Olá, eu sou o Caio Bezerra 👋</h1>
+  <p>Estudante de Engenharia de Software na UnB · Estagiário na Record Brasília</p>
 </div>
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Engenharia de Software na UnB.
+- 🎓 Estudando **Engenharia de Software** na **UnB** (Universidade de Brasília).
+- 💼 Estagiário de Software na **Record Brasília**
 - 🌱 Sempre em busca de conhecimento.
 
 ## Minhas Skills
@@ -14,7 +17,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 ![C Sharp](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -34,6 +36,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioBezerra-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBezerra-Dev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBezerra-Dev&theme=dark" />
+</div>
 
 ## Onde me encontrar
 
