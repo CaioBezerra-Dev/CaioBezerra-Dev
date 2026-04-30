@@ -38,7 +38,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBezerra-Dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBezerra-Dev&layout=compact&langs_count=7&theme=default"/>
   <img src="https://raw.githubusercontent.com/CaioBezerra-Dev/CaioBezerra-Dev/main/profile-3d-contrib/profile-green-animate.svg"/>
 </div>
 
