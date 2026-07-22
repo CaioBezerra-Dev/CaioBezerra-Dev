@@ -41,6 +41,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Cursor](https://img.shields.io/badge/-Cursor-333333?style=flat&logo=cursor)
+![Claude](https://img.shields.io/badge/-Claude-333333?style=flat&logo=claude&logoColor=D97757)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 
